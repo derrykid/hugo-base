@@ -1,7 +1,6 @@
 ---
 title: "Java static keyword and why we use it?"
 date: 2022-04-16T21:54:34+08:00
-draft: true
 tags: ["Java, static"]
 categories: ["programming language"]
 ---
