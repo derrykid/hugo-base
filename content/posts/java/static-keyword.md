@@ -1,11 +1,11 @@
 ---
-title: "Java static keyword and why we use it?"
-date: 2022-04-16T21:54:34+08:00
-tags: ["Java, static"]
-categories: ["programming language"]
+title: "Java - static Keyword"
+date: 2022-04-18T14:30:55+08:00
+tags: ["java", "static"]
+categories: ["programming"]
 ---
 
-# Static
+# static
 > In simple words: `static` means the variable or methods that assigned to are **belonging to the class, not the object.** Therefore, there's only one copy of the *variable/method* in the memory.
 
 When create an object where all instance variables aren't static, every object will own its memory space, and its own copy of value.
