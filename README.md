@@ -20,4 +20,15 @@ hugo -t PaperMod
 
 When push to GitHub, push `hugo-base` and `public` directory separately.
 
+##  post categories and tags
 
+Category (a general topic)
+
+- backend
+- java (this will be its own directory)
+- linux
+
+Tag (any sub-category)
+
+- command
+- git

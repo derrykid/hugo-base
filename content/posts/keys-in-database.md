@@ -2,11 +2,7 @@
 title: "Keys in Database"
 date: 2022-03-17T14:26:35+08:00
 tags: ["database", "mysql"]
-categories: ["database"]
-editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+categories: ["backend, database"]
 ---
 
 There are 8 types of keys in DBMS(Database Management system). Keys are used to help developers to identify a row in a relation(table). Understanding each keys will help you understand and develop a database. 
