@@ -1,11 +1,10 @@
 ---
 title: "Linux Archive and Compress Command Tar Gzip"
 date: 2022-11-04T20:05:41Z
-draft: true
 tags: ["command", "tar", "compress", "archive", "gzip"]
 categories: ["linux"]
 ---
-[toc]
+
 ## Archive vs compress
 As a former Windows user, I didn't have much knowledge about file archiving and file compression. Like most PC users do, I simply collect the files we want to compress and right click the folder to compress then. The output compressed files are, without a doubt, mostly likely to be extension `.zip` or `.rar` files. However, when I switch to Linux, things changed. As on the road of knowing more commands, we inevitably go across files extensions ending like `.tar, .gz`, or `.tar.gz.`
 
