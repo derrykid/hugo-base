@@ -1,7 +1,11 @@
 ## This repo keeps the hugo-generator files. Separate from the post files.
 
 ### Create new post
-When create new posts: `hugo new content/posts/{directory}/{post}.md`
+When create new posts: 
+
+```
+hugo new content/posts/{directory}/{post}.md
+```
 
 I have to create post in `content/posts/` directory, otherwise, the posts won't come up in homepage.
 
