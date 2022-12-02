@@ -18,7 +18,7 @@ minify:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: Derry Dev Blog
-    description: "Share notes about Linux commands, Java learning problems I've faced, and some notes I've taken."
+    description: "Developer blog: Java, programming, Linux, backend development"
     keywords: [Linux, Java, blogs, notes, programming]
     author: Derry
     # author: ["Me", "You"] # multiple authors
@@ -71,14 +71,16 @@ params:
 
     # home-info mode
     homeInfoParams:
-        Title: "Derry Dev Blog \U0001F426"
-        Content: Some notes related to Linux and Programming
+        Title: "Derry's Dev Blog \U0001F426"
+        Content: Weekly on Linux commands, Java development, Python in Artificial Intelligence
 
     socialIcons:
         - name: twitter
           url: "https://twitter.com/DerryYeh"
         - name: github
           url: "https://github.com/derrykid"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/derry-yeh/"
 
     analytics:
         google:
