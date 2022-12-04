@@ -1,8 +1,8 @@
 ---
-title: "Git How to Switch From Password Prompt to Ssh"
+title: "Git - How to Switch From Password Prompt to Ssh"
 date: 2022-11-12T18:47:19Z
-tags: ["ssh", "git"]
-categories: ["programming", "git", "linux"]
+tags: ["ssh", "git", "programming", "linux"]
+categories: ["technology and software development"]
 ---
 
 GitHub has terminated the login from password in command line. You can switch to SSH. This tutorial will guide you how to do it.

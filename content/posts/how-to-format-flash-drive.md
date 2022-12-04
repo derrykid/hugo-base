@@ -2,7 +2,7 @@
 title: "How to Format Flash Drive"
 date: 2022-03-17T12:06:46+08:00
 tags: ["Linux", "command", "format"]
-categories: [""]
+categories: ["technology and software development"]
 ---
 
 # How to format USB (flash drive) in Linux command line?

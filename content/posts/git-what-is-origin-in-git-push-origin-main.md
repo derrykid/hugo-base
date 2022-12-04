@@ -1,8 +1,8 @@
 ---
-title: "Git What Is Origin in Git Push Origin Main"
+title: "Git - What Is Origin in Git Push Origin Main"
 date: 2022-11-12T18:52:09Z
-tags: ["git", "command"]
-categories: ["programming", "linux", "git"]
+tags: ["git", "command", "linux", "github"]
+categories: ["technology and software development"]
 ---
 
 ## What is `origin` in `git push origin main`?

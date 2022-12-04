@@ -1,8 +1,8 @@
 ---
-title: "Despite the ethical regulations upon AI, Chinese government prioritize the nation welfare in compared to western counterparts"
+title: "[Discussion of AI] Despite the ethical regulations upon AI, Chinese government prioritize the nation welfare in compared to western counterparts"
 date: 2022-11-27T20:29:05Z
 tags: ["AI"]
-categories: ["analysis"]
+categories: ["technology and software development"]
 ---
 
 # Introduction 

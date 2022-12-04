@@ -2,7 +2,7 @@
 title: "Linux Archive and Compress Command Tar Gzip"
 date: 2022-11-04T20:05:41Z
 tags: ["command", "tar", "compress", "archive", "gzip"]
-categories: ["linux"]
+categories: ["technology and software development"]
 ---
 
 ## Archive vs compress

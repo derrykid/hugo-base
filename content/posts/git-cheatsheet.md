@@ -1,8 +1,8 @@
 ---
 title: "Git Cheatsheet"
 date: 2022-06-27T18:47:30+08:00
-tags: ["git"]
-categories: ["backend"]
+tags: ["git", "backend", "command"]
+categories: ["technology and software development"]
 ---
 
 I learn git from this interactive tutorial. I take note along the way while I was doing it. 

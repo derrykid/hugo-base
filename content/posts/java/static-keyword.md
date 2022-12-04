@@ -2,7 +2,7 @@
 title: "Java - static Keyword"
 date: 2022-04-18T14:30:55+08:00
 tags: ["java", "static"]
-categories: ["backend"]
+categories: ["technology and software development"]
 ---
 
 # static
