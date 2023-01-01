@@ -34,3 +34,8 @@ tags, e.g.:
 - command
 - git
 - java
+
+## Development server
+```bash
+hugo server -D
+```
